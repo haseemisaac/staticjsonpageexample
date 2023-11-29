@@ -1,0 +1,56 @@
+{
+    "title": "A Brief Journey Through Islamic History",
+    "author": "A. Z. Knowledge",
+    "chapters": [
+        {
+            "chapter_number": 1,
+            "title": "The Birth of Islam",
+            "summary": "Summary of Chapter 1: A historical perspective on The Birth of Islam."
+        },
+        {
+            "chapter_number": 2,
+            "title": "The Era of the Prophet Muhammad",
+            "summary": "Summary of Chapter 2: A detailed analysis of The Era of the Prophet Muhammad."
+        },
+        {
+            "chapter_number": 3,
+            "title": "The Rashidun Caliphate",
+            "summary": "Summary of Chapter 3: A detailed analysis of The Rashidun Caliphate."
+        },
+        {
+            "chapter_number": 4,
+            "title": "The Umayyad Dynasty",
+            "summary": "Summary of Chapter 4: An overview of The Umayyad Dynasty."
+        },
+        {
+            "chapter_number": 5,
+            "title": "The Abbasid Caliphate",
+            "summary": "Summary of Chapter 5: A historical perspective on The Abbasid Caliphate."
+        },
+        {
+            "chapter_number": 6,
+            "title": "The Golden Age of Islam",
+            "summary": "Summary of Chapter 6: A detailed analysis of The Golden Age of Islam."
+        },
+        {
+            "chapter_number": 7,
+            "title": "The Ottoman Empire",
+            "summary": "Summary of Chapter 7: A detailed analysis of The Ottoman Empire."
+        },
+        {
+            "chapter_number": 8,
+            "title": "Islamic Art and Culture",
+            "summary": "Summary of Chapter 8: A detailed analysis of Islamic Art and Culture."
+        },
+        {
+            "chapter_number": 9,
+            "title": "Major Islamic Scholars",
+            "summary": "Summary of Chapter 9: A historical perspective on Major Islamic Scholars."
+        },
+        {
+            "chapter_number": 10,
+            "title": "Modern Islamic World",
+            "summary": "Summary of Chapter 10: An overview of Modern Islamic World."
+        }
+    ]
+}
